@@ -18,7 +18,7 @@ semantic_version
 rauth>=0.6.2
 requests
 celery
-redis
+redis==2.10.6
 selenium
 -e git+https://github.com/frappe/python-pdfkit.git#egg=pdfkit
 babel
