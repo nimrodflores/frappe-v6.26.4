@@ -22,7 +22,7 @@ redis
 selenium
 -e git+https://github.com/frappe/python-pdfkit.git#egg=pdfkit
 babel
-ipython
+ipython==4.2
 html2text
 email_reply_parser
 click
