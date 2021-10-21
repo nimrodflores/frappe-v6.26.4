@@ -22,7 +22,7 @@ celery==3.1.23
 redis==2.10.6
 selenium==2.52.0
 -e git+https://github.com/frappe/python-pdfkit.git#egg=pdfkit
-babel==2.2.0
+babel==2.9.1
 ipython==4.2
 html2text==2016.1.8
 email_reply_parser==0.3.0
