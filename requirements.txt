@@ -18,7 +18,7 @@ semantic_version==2.5.0
 rauth==0.7.2
 requests==2.9.1
 kombu==3.0.34
-celery==3.1.23
+celery==5.2.2
 redis==2.10.6
 selenium==2.52.0
 -e git+https://github.com/frappe/python-pdfkit.git#egg=pdfkit
