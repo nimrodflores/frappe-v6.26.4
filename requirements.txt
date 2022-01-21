@@ -23,7 +23,7 @@ redis==2.10.6
 selenium==2.52.0
 -e git+https://github.com/frappe/python-pdfkit.git#egg=pdfkit
 babel==2.2.0
-ipython==4.2
+ipython==7.16.3
 html2text==2016.1.8
 email_reply_parser==0.3.0
 click==6.3
